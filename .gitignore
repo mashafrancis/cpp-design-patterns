@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+/vscode
+/.vscode
+.vscode
+.idea/
+fonts/
+/reports
+/tmp
+reports/
+tmp/
+/dist
+dist/
+.cache
